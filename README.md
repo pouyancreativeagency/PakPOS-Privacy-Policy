@@ -97,6 +97,6 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 - **Developer / Company:** Pouyan Creative
 - **App Name:** PakPOS: Smart Billing & Khata
-- **Email:** support@pouyancreative.com *(replace with your actual email)*
+- **Email:** pouyancreativeagency@gmail.com *(pouyancreativeagency@gmail.com)*
 - **Country:** Pakistan
 
